@@ -1,45 +1,45 @@
-# Hello, I am Meh Paulinus Chu
-
 <a href="https://www.linkedin.com/in/mehpaulinuschu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I am Meh Paulinus Chu, 
 
-[Brief Introduction - Remove this afterwards]
+A result-driven technologies with expertise in Computer Science, Data Science, AI Engineering, Machine Learning Engineering and Agentic AI.
+I specialize in building intelligent, data-driven solutions that automate processes, solve real world problems to enhance decision making. I strive each day for technological innovations
+exploring the evolving AI landscape, from advanced neural networks to autonomous AI agents. I share my journey and experience through well documented Github projects.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I graduated with honors in 2021 and I Have earned multiple professional certifications, demostrating strong dedication and mastery indepth professinal skills and core concepts of computer science & mathematics.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My journey in computer science has led me to develop a passion for Data science and AI, and I am now eager to leverage my expertise in AI, machine learning, and Agentic AI to develop innovative scalable solutions that drive automation and intelligent decision making while continously advancing my skills and contributing to impactful open source projects.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|    project 1  skill  | <a href="https://google.com">project1</a>|
+| project 2 skill | <a href="https://google.com">project2</a>|
+|  project 3 skill      | project3|
+| Project 4 skill      | project4|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Frontend and Backend Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### EDA tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Business Intelligent tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
